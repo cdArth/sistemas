@@ -1,0 +1,14 @@
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\bin\Debug\netcoreapp3.1\laco_de_repetição1.exe
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\bin\Debug\netcoreapp3.1\laco_de_repetição1.deps.json
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\bin\Debug\netcoreapp3.1\laco_de_repetição1.runtimeconfig.json
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\bin\Debug\netcoreapp3.1\laco_de_repetição1.runtimeconfig.dev.json
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\bin\Debug\netcoreapp3.1\laco_de_repetição1.dll
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\bin\Debug\netcoreapp3.1\laco_de_repetição1.pdb
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\obj\Debug\netcoreapp3.1\laco_de_repetição1.csproj.AssemblyReference.cache
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\obj\Debug\netcoreapp3.1\laco_de_repetição1.GeneratedMSBuildEditorConfig.editorconfig
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\obj\Debug\netcoreapp3.1\laco_de_repetição1.AssemblyInfoInputs.cache
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\obj\Debug\netcoreapp3.1\laco_de_repetição1.AssemblyInfo.cs
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\obj\Debug\netcoreapp3.1\laco_de_repetição1.csproj.CoreCompileInputs.cache
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\obj\Debug\netcoreapp3.1\laco_de_repetição1.dll
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\obj\Debug\netcoreapp3.1\laco_de_repetição1.pdb
+E:\arth\datamace atvs\Sistemas\laco_de_repetição1\obj\Debug\netcoreapp3.1\laco_de_repetição1.genruntimeconfig.cache

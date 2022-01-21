@@ -1,0 +1,16 @@
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\bin\Debug\net5.0\Ex_2022_01_19.exe
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\bin\Debug\net5.0\Ex_2022_01_19.deps.json
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\bin\Debug\net5.0\Ex_2022_01_19.runtimeconfig.json
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\bin\Debug\net5.0\Ex_2022_01_19.runtimeconfig.dev.json
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\bin\Debug\net5.0\Ex_2022_01_19.dll
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\bin\Debug\net5.0\ref\Ex_2022_01_19.dll
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\bin\Debug\net5.0\Ex_2022_01_19.pdb
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\obj\Debug\net5.0\Ex_2022_01_19.csproj.AssemblyReference.cache
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\obj\Debug\net5.0\Ex_2022_01_19.GeneratedMSBuildEditorConfig.editorconfig
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\obj\Debug\net5.0\Ex_2022_01_19.AssemblyInfoInputs.cache
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\obj\Debug\net5.0\Ex_2022_01_19.AssemblyInfo.cs
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\obj\Debug\net5.0\Ex_2022_01_19.csproj.CoreCompileInputs.cache
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\obj\Debug\net5.0\Ex_2022_01_19.dll
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\obj\Debug\net5.0\ref\Ex_2022_01_19.dll
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\obj\Debug\net5.0\Ex_2022_01_19.pdb
+E:\arth\datamace atvs\Sistemas\Ex_2022_01_19\obj\Debug\net5.0\Ex_2022_01_19.genruntimeconfig.cache
